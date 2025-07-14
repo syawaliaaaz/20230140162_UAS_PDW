@@ -1,14 +1,14 @@
-<img width="1365" height="637" alt="dashboard utama" src="https://github.com/user-attachments/assets/972fda5e-26a5-4e60-962e-9c4bf05a228c" />
-<img width="1366" height="634" alt="login" src="https://github.com/user-attachments/assets/b574c01e-0bee-49f0-b1ee-9991ad2f2bf6" />
-<img width="1365" height="635" alt="registrasi" src="https://github.com/user-attachments/assets/926d93a7-568f-49b7-b300-98333a9c8f39" />
-<img width="1354" height="647" alt="dashboard asisten" src="https://github.com/user-attachments/assets/a0ccf73c-3156-4bf3-bf06-54eb30eb0b9a" />
-<img width="1355" height="632" alt="manajemen modul" src="https://github.com/user-attachments/assets/b5aaa170-819e-4be3-900c-c084eea6e2f4" />
-<img width="1366" height="631" alt="tambah praktikum" src="https://github.com/user-attachments/assets/6641e8c0-c4bf-4f80-a460-a222256ca3e2" />
-<img width="1342" height="627" alt="alert hapus praktikum" src="https://github.com/user-attachments/assets/bea72b95-3bf6-42a7-878f-ba9344eecb32" />
-<img width="1362" height="635" alt="sisa praktikum" src="https://github.com/user-attachments/assets/1c0d990a-9482-4985-96e5-b38848576198" />
-<img width="1361" height="620" alt="update or edit praktikum" src="https://github.com/user-attachments/assets/957fe143-dec1-4557-89de-578252ee01de" />
-<img width="1363" height="631" alt="tambah or create modul" src="https://github.com/user-attachments/assets/5d67d3e7-91dc-4be0-8afb-f5af53dca15a" />
-<img width="1363" height="638" alt="laporan masuk" src="https://github.com/user-attachments/assets/aa59c47d-c5d0-4893-82cf-00846bf5a9a9" />
-<img width="1364" height="631" alt="dashboard mahasiswa" src="https://github.com/user-attachments/assets/95d68d94-59b2-471c-9005-dce4ed9dc0aa" />
-<img width="1352" height="635" alt="terdaftar praktikum" src="https://github.com/user-attachments/assets/73fa350f-a150-4e28-8844-544a3ff589ad" />
-<img width="1366" height="629" alt="upload laporan mahasiswa" src="https://github.com/user-attachments/assets/fcebdff7-704f-490b-9109-70f0b85cc208" />
+<img width="1365" height="637" alt="dashboard utama" src="https://github.com/user-attachments/assets/882bd142-94ef-437d-b0fd-5658f115e6d9" />
+<img width="1366" height="634" alt="login" src="https://github.com/user-attachments/assets/ddcd0482-2b40-4c67-9cca-61896bac6511" />
+<img width="1365" height="635" alt="registrasi" src="https://github.com/user-attachments/assets/7ef4bda0-d7e3-42ad-9c16-ff39736f79da" />
+<img width="1354" height="647" alt="dashboard asisten" src="https://github.com/user-attachments/assets/4e4a5cd4-b0dc-4224-a50e-8e6f8fbc667c" />
+<img width="1355" height="632" alt="manajemen modul" src="https://github.com/user-attachments/assets/86727576-d94c-4561-b999-b72e12342711" />
+<img width="1366" height="631" alt="tambah praktikum" src="https://github.com/user-attachments/assets/620ad81c-004b-4667-9e05-9e85465eb8f5" />
+<img width="1342" height="627" alt="alert hapus praktikum" src="https://github.com/user-attachments/assets/12d5aa4f-fb34-4d1a-ae2a-e6824bff26a8" />
+<img width="1362" height="635" alt="sisa praktikum" src="https://github.com/user-attachments/assets/c9ec5781-c17a-4de7-97b7-77321ed4e861" />
+<img width="1361" height="620" alt="update or edit praktikum" src="https://github.com/user-attachments/assets/7f1db293-3b83-46fa-8a88-219a709a5dbb" />
+<img width="1363" height="631" alt="tambah or create modul" src="https://github.com/user-attachments/assets/5afe3630-df54-4df1-bade-1ba1ae7d900b" />
+<img width="1363" height="638" alt="laporan masuk" src="https://github.com/user-attachments/assets/a22f12a5-5d8d-427c-8c08-895426349fb0" />
+<img width="1364" height="631" alt="dashboard mahasiswa" src="https://github.com/user-attachments/assets/3ce37483-c60b-4d4e-aff5-0ae79af9c548" />
+<img width="1352" height="635" alt="terdaftar praktikum" src="https://github.com/user-attachments/assets/85fcf8da-a8cf-4024-8f89-d4d23781918c" />
+<img width="1366" height="629" alt="upload laporan mahasiswa" src="https://github.com/user-attachments/assets/a3ff9492-9300-45de-8cb1-ebc632afee9e" />
